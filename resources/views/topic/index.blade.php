@@ -17,7 +17,7 @@
 
 @section('content')
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3" style="display: block;">
             <div class="col-12">
                 @include('topic.partials.categories')
             </div>
